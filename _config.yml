@@ -1,2 +1,9 @@
 title: Welcome to my portfolio!
 theme: jekyll-theme-slate
+author: Chaddrick Winston
+email: chaddrick.winston@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+ Welcome to my Microsoft Systems and Software Academy Blog! I will be posting entries about my experience in the program
+ and plan to share my thoughts and any tips that I come along. So sit back and enjoy the ride...I know I will!
+# social links
+github_username:  ckwinst # DO NOT include the @ character, or else the build will fail!
