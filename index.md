@@ -1,5 +1,5 @@
 ---
-layout: minima
+layout: hacker
 ---
 
 {% include 01-name.md %}
