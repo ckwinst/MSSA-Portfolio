@@ -1,5 +1,5 @@
 ---
-layout: hacker
+layout: hack
 ---
 
 {% include 01-name.md %}
